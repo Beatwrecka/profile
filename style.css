@@ -1,0 +1,139 @@
+h1, h2 {
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+body {
+  font-family: 'Oswald', sans-serif;
+  background-color: d5c7bc;
+  text-align: center;
+  font-size: 30px;
+  line-height: 2;
+  color: 454545;
+  margin: auto;
+  padding: 20px;
+}
+
+h2 {
+font-family: 'Roboto', sans-serif;
+text-decoration: none;
+color: 35a7ff;
+font-weight: 600;
+font-size: 28px;
+
+}
+
+img {
+  width: 700px;
+  border-radius: 50%;
+  margin-top: 20px;
+  box-shadow: 5px 10px 13px -3px #34085d;
+  background-blend-mode: exclusion;
+  margin: 100px;
+}
+
+
+i {
+  color: 35a7ff;
+  font-size: 70px;
+
+}
+
+i:hover {
+  color: #ffe74c
+
+}
+
+.container (max-width: 960px) {
+  width: 67%;
+  margin: 0 auto;
+  text-align: center;
+  background-color: #ff5959;
+  border-radius: 20px;
+  height: 350px;
+
+}
+
+.card {
+  background-color: #ff5959 ;
+  border-radius: 10px;
+  width: 65%;
+  margin: 0 auto;
+  height: auto;
+  margin-top: 20px;
+  padding: 30px;
+  color: white;
+  box-shadow: 5px 10px 13px -3px #34085d;
+}
+
+.soundcloud {
+  width: 65%;
+  background-color: #ff5959;
+  border-radius: 20px;
+  margin: 0 auto;
+  height: 350px;
+  margin-top: 20px;
+  padding: 30px;
+  box-shadow: 5px 10px 13px -3px #34085d;
+}
+
+.cloudframe {
+  margin-top: 20px
+}
+
+.photo_box  {
+  height: 500px;
+  /* width: auto; */
+  /* display: flex; */
+ /*  display: flex; */
+ /*  grid-template-columns: repeat(auto-fill,minmax(100px, 1fr)); */
+/*   flex-direction: column; */
+  /* flex-wrap: wrap; */
+  gap: 10px;
+  /* background-color: black; */
+  padding: 100px;
+  /* flex-flow: row wrap; */
+  border-radius: 8px;
+  mix-blend-mode:multiply, 0.5;
+
+}
+
+.photo_box>* {
+  flex: 0 1 50px;
+}
+
+.wrapper {
+  border: 2px dotted rgb(96, 139, 168);
+  width: 2200px;
+  display: inline;
+}
+
+.art {
+display: inline-flex
+contents:inline-flexbox
+
+}
+
+img.art {
+  width: 20px;
+}
+
+/* .batman {
+  background-blend-mode:difference;
+  mix-blend-mode:difference;
+  width: 20px;
+  height:10px;
+
+
+
+}
+ */
+.fox {
+/*   background-blend-mode: multiply;
+  mix-blend-mode:color-dodge; */
+
+}

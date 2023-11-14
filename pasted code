@@ -1,0 +1,80 @@
+<!-- <!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald&display=swap" rel="stylesheet">
+    <title>Jonny Dunseath's profile page</title>
+    <meta name = "description" content = "a quick intro into my profile">
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.1.2/css/all.css">
+    <script src="https://kit.fontawesome.com/c80ed67720.js" crossorigin="anonymous"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+  <body>
+    <div class="container">
+
+
+      <img src="images/profil-tunnel.jpg" width="300px" alt="profile pic">
+
+      </div>
+
+      <div class="card">
+        <h1>Hello, I'm Jonny</h1>
+        <p>My all consuming passion is making music. I started DJing in 1999 and within a couple of years was playing clubs around the uk.
+          A few years later I began to create my own tracks and from there on it's been a huge part of my life.
+          I'm currently doing the online Web development bootcamp with Le Wagon, after which I'll be looking to get into software development.
+          Eventually I'd like to make software plugins for musicians to create and manipulate audio.
+        </p>
+      <p>
+        I'm currently doing the web development bootcamp at Le Wagon and will be ready to
+        begin my coding career in January 2024!
+      </p>
+
+      <div class="card">
+
+      </div>
+      </div>
+
+      <h2>
+        Follow me here:
+     </h2>
+      <p>
+        <a href="https://github.com/Beatwrecka"><i class="fa-brands fa-square-github"></i></a>
+        <a href="https://www.facebook.com/Jonny.beatwrecka"><i class="fa-brands fa-facebook"></i></a>
+        <a href="https://soundcloud.com/beatwrecka"><i class="fa-brands fa-soundcloud"></i></a>
+      </p>
+
+      <div class="soundcloud">
+        <div class="cloudframe"></div>
+        <iframe width="50%" height="200" scrolling="no" frameborder="10px" allow="autoplay"
+        src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1439609803&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 30px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/beatwrecka" title="Beatwrecka" target="_blank" style="color: white; text-decoration: none;">Beatwrecka</a> · <a href="https://soundcloud.com/beatwrecka/loudmouth" title="Erb n&#x27; Dub- Loudmouth (Beatwrecka Remix)" target="_blank" style="color: white; text-decoration: none;">Erb n&#x27; Dub- Loudmouth (Beatwrecka Remix)</a></div>
+
+        </div>
+      <div class="cloudframe"></div>
+
+      <div class="card">
+
+
+          <div class="container"><id=photo_box></id>
+            <ul>
+              <img src="images/Gangster_Fox-001.png"><id="fox"></id><size="100px"></size>
+              <img src="images/Banksy Drummer-01.png"><id="banksy"></id><size="100px"></size>
+              <img src="images/obese_batman.png"><id="batman"></id><size="100px"></size>
+            </ul>
+          </div>
+      </div>
+
+
+
+
+
+
+
+
+
+
+  </body>
+
+</html> -->
